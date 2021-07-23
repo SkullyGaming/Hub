@@ -68,4 +68,4 @@ class Main extends PluginBase implements Listener {
         	$event->getPlayer()->teleport($this->getServer()->getDefaultLevel()->getSafeSpawn());
    	 }
     }
-}
+a
