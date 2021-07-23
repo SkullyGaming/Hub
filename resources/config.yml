@@ -15,7 +15,7 @@ sendmessage: "§7(§a!§7)§a Successfully teleported to hub!"
 # Error message that sends when the command is executed in console
 useingame: "§cThis command can only be executed in-game"
 # Force TP to hub when join?
-forcespawn: "false"
+forcehub: "false"
 # ====================================== #
 # Clear inventory on command? (on/off)
 clearinventory: "off"
