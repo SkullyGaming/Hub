@@ -6,6 +6,6 @@ api: [3.14.2]
 author: skullygaming
 
 commands:
-  spawn:
+  hub:
     description: "Teleport to hub!"
 ...
